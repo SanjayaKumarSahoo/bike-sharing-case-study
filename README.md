@@ -1,2 +1,2 @@
-# bike-sharing-system-case-study
+# bike-sharing-case-study
 Bike Sharing Case Study
